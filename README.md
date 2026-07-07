@@ -3,8 +3,6 @@
 
 > **Full Stack Software Engineer | Java • Spring Boot • MERN • Next.js • Docker • AI Integration**
 
-> ⚠️ **Note:** This is a starter premium README generated from the provided information. It is ready to customize further with repository links and GitHub widgets.
-
 ---
 
 ## About Me
