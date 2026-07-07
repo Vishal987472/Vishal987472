@@ -127,14 +127,8 @@ Open To:
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal987472&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c4b5fd&icon_color=a78bfa&text_color=e9d5ff" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal987472&theme=radical&hide_border=true&background=0d0221&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal987472&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=c4b5fd&text_color=e9d5ff" width="49%"/>
 </div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal987472&theme=react-dark&hide_border=true&bg_color=0d0221&color=c4b5fd&line=a78bfa&point=e9d5ff" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/Vishal987472/Vishal987472/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 ---
 
