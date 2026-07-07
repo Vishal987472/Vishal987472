@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:4c1d95,100:7c3aed&height=220&section=header&text=Vishal%20Pal&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot%20%2F%20MERN%20%2F%20Docker%20%7F%20Microservices&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:4c1d95,100:7c3aed&height=220&section=header&text=Vishal%20Pal&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot%20%2F%20MERN%20%2F%20Docker%20%2F%20Microservices&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Vishal987472">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Full+Stack+Developer+%7C+MERN+%2F+Next.js;Building+AI-Integrated+Products;Open+to+Software+Engineering+Roles&font=Fira+Code&center=true&width=600&height=45&color=C4B5FD&vCenter=true&size=22&pause=1200&background=00000000" />
@@ -15,19 +15,12 @@
 
 <a href="https://portfolio-vishalpal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1033"/></a>
 <a href="https://www.linkedin.com/in/vishal-pal-2209452b5"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1033"/></a>
-<a href="mailto:vishal.pal@example.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1033"/></a>
-<a href="https://github.com/Vishal987472"><img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1033"/></a>
 
 <br/><br/>
 
 </div>
 
 <br/>
-
-
-# Vishal Pal
-
-> **Full Stack Software Engineer | Java • Spring Boot • MERN • Docker • Microservices**
 
 ---
 
@@ -133,25 +126,24 @@ Open To:
 
 ## GitHub Stats
 
-Replace with your preferred GitHub widgets:
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal987472&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c4b5fd&icon_color=a78bfa&text_color=e9d5ff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal987472&theme=radical&hide_border=true&background=0d0221&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal987472&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=c4b5fd&text_color=e9d5ff" width="49%"/>
+</div>
 
-- GitHub Stats
-- Streak Stats
-- Top Languages
-- Activity Graph
-- Contribution Snake
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal987472&theme=react-dark&hide_border=true&bg_color=0d0221&color=c4b5fd&line=a78bfa&point=e9d5ff" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/Vishal987472/Vishal987472/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 ---
 
-## Quote
-
-> "Build software that solves real problems, write clean code, and never stop learning."
 
 ## Connect
 
 <div align="center">
 
-<a href="mailto:vishal.pal@example.com"><img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1033"/></a>
+<a href="mailto:pal7102002@gmail.com"><img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1033"/></a>
 <a href="https://www.linkedin.com/in/vishal-pal-2209452b5"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1033"/></a>
 <a href="https://github.com/Vishal987472"><img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1033"/></a>
 <a href="https://portfolio-vishalpal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1033"/></a>
