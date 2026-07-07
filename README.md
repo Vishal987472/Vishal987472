@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:4c1d95,100:7c3aed&height=220&section=header&text=Vishal%20Pal&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%207C%20Java%20%2F%20Spring%20Boot%20%2F%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:4c1d95,100:7c3aed&height=220&section=header&text=Vishal%20Pal&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot%20%2F%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Vishal987472">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Full+Stack+Developer+%7C+MERN+%2F+Next.js;Building+AI-Integrated+Products;Open+to+Software+Engineering+Roles&font=Fira+Code&center=true&width=600&height=45&color=C4B5FD&vCenter=true&size=22&pause=1200&background=00000000" />
