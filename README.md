@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:4c1d95,100:7c3aed&height=220&section=header&text=Vishal%20Pal&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot%20%2F%20MERN%20%2F%20Next.js&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:4c1d95,100:7c3aed&height=220&section=header&text=Vishal%20Pal&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot%20%2F%20MERN%20%2F%20Docker%20%7F%20Microservices&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Vishal987472">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Full+Stack+Developer+%7C+MERN+%2F+Next.js;Building+AI-Integrated+Products;Open+to+Software+Engineering+Roles&font=Fira+Code&center=true&width=600&height=45&color=C4B5FD&vCenter=true&size=22&pause=1200&background=00000000" />
@@ -20,10 +20,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vishal987472&style=for-the-badge&color=7c3aed&labelColor=1a1033" />
-<img src="https://img.shields.io/github/followers/Vishal987472?style=for-the-badge&color=7c3aed&labelColor=1a1033&label=Followers"/>
-<img src="https://img.shields.io/github/stars/Vishal987472?style=for-the-badge&color=7c3aed&labelColor=1a1033&label=Stars"/>
-
 </div>
 
 <br/>
@@ -31,9 +27,7 @@
 
 # Vishal Pal
 
-> **Full Stack Software Engineer | Java • Spring Boot • MERN • Next.js • Docker • AI Integration**
-
-> ⚠️ **Note:** This is a starter premium README generated from the provided information. It is ready to customize further with repository links and GitHub widgets.
+> **Full Stack Software Engineer | Java • Spring Boot • MERN • Docker • Microservices**
 
 ---
 
@@ -43,7 +37,6 @@ Hi, I'm **Vishal Pal**, an MCA graduate from Chandigarh University and a Full St
 
 - 🔭 Building production-ready Spring Boot & MERN applications
 - 🌱 Learning Microservices, System Design and Cloud
-- 🤖 Integrated Google Gemini AI into my CARBO project
 - 🐳 Docker & CI/CD enthusiast
 - 💼 Open to Software Engineer / Backend / Full Stack roles
 
@@ -62,7 +55,7 @@ Hi, I'm **Vishal Pal**, an MCA graduate from Chandigarh University and a Full St
 ## Tech Stack
 
 ### Languages
-Java • JavaScript • TypeScript • SQL
+Java • JavaScript • Python • SQL
 
 ### Frontend
 React • Next.js • Tailwind CSS • HTML • CSS
@@ -71,26 +64,10 @@ React • Next.js • Tailwind CSS • HTML • CSS
 Spring Boot • Node.js • Express.js • REST APIs
 
 ### Databases
-PostgreSQL • MongoDB • Firebase
+PostgreSQL • MongoDB • Firebase • MySQL 
 
 ### DevOps
 Docker • GitHub Actions • Git • Linux
-
----
-
-## AI Experience
-
-### CARBO – Carbon Footprint Tracker
-
-Integrated the **Google Gemini API** to build an AI-powered chatbot that answers sustainability-related questions.
-
-Highlights:
-
-- Secure backend integration
-- Prompt processing
-- Error handling
-- Environment variable based API key management
-- Conversational UI
 
 ---
 
